@@ -1,0 +1,18 @@
+{
+    "writerHelper.enabled": true,
+    "writerHelper.docs.characters.path": "c:\\Users\\Yb\\IdeaProjects\\book2\\设定\\人物设定.md",
+    "writerHelper.docs.scenes.path": "c:\\Users\\Yb\\IdeaProjects\\book2\\设定\\场景设定.md",
+    "writerHelper.docs.items.path": "c:\\Users\\Yb\\IdeaProjects\\book2\\设定\\物品设定.md",
+    "writerHelper.docs.skills.path": "c:\\Users\\Yb\\IdeaProjects\\book2\\设定\\技能设定.md",
+    "writerHelper.configPaths.world": "c:\\Users\\Yb\\IdeaProjects\\book2\\设定\\世界设定.md",
+    "writerHelper.outline.paths": [
+        "c:\\Users\\Yb\\IdeaProjects\\book2\\大纲\\大纲.md"
+    ],
+    "writerHelper.detailed.paths": [
+        "c:\\Users\\Yb\\IdeaProjects\\book2\\大纲\\细纲.md"
+    ],
+    "writerHelper.chapterSummary.dirs": [
+        "章节"
+    ],
+    "writerHelper.chapterSummary.outputDir": "章节概述"
+}
