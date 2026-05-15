@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where git *)",
+      "Bash(cmd.exe /c \"cd /d c:\\\\Users\\\\Yb\\\\IdeaProjects\\\\book2 && git status\")",
+      "Bash(powershell.exe -Command \"cd c:\\\\Users\\\\Yb\\\\IdeaProjects\\\\book2; git status\")"
+    ]
+  }
+}
